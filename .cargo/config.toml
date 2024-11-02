@@ -1,0 +1,2 @@
+[env]
+DATABASE_CONNECTOR = "sqlite://./db.sqlite?mode=rwc"

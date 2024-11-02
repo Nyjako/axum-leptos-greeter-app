@@ -1,0 +1,13 @@
+body {
+	font-family: sans-serif;
+	text-align: center;
+	color: whitesmoke;
+	background-color: rgb(31, 31, 31);
+
+	& > * > button {
+		color: whitesmoke;
+		background-color: rgb(51, 51, 51);
+		border: none;
+		cursor: pointer;
+	}
+}
